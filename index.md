@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rails Devloper / Ruby Programmer"
+title: "Resume"
 ---
 ## Rails Developer / Ruby Programmer
 
