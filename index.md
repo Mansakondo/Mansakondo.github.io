@@ -6,12 +6,12 @@ title: "Resume"
 
 ### I've work on...
 * A [PR](https://github.com/rails/rails/pull/43399) (extracted from a [gem](https://github.com/mansakondo/activemodel-embedding)) to model semi-structured data in Rails applications.
-* A [software](https://karan-demo.herokuapp.com/) for indexing and faceting [encoded bibliographic data](https://en.wikipedia.org/wiki/MARC_standards).
-* This [project](https://rest-countries-challenge.herokuapp.com/) which was a challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca), to learn Tailwind and sharpen my front-end skills.
+* An [application](https://karan-demo.herokuapp.com/) for indexing and faceting [encoded bibliographic data](https://en.wikipedia.org/wiki/MARC_standards).
+* This [project](https://rest-countries-challenge.herokuapp.com/) which was a challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca), which helped me sharpen my front-end skills.
 
 ### I'm familiar with...
 * Modeling and processing semi-structured data in Rails.
-* TailwindCSS, Stimulus, Elasticsearch, Docker
+* TailwindCSS, Hotwire, Elasticsearch, Docker
 
 ### I enjoy...
 * Designing domain models.
