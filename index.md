@@ -12,7 +12,7 @@ title: "Resume"
 ### I'm familiar with...
 * Modeling and processing semi-structured data in Rails.
 * Faceted navigation
-* TailwindCSS, Hotwire, Elasticsearch, Docker
+* PostgreSQL, TailwindCSS, Hotwire, Elasticsearch, Docker, Heroku
 
 ### I like...
 * Designing domain models.
