@@ -12,7 +12,7 @@ title: "Mansa Keïta"
 ### In the last 3 years...
 * I drop out of college.
 * I taught myself programming and web development.
-* I've worked as a volunteer in a library, where I was animating sessions to teach kids how to
+* I worked as a volunteer in a library, where I animated sessions to teach kids how to
 		code.
 
 ### During my self-learning, I've worked on...
