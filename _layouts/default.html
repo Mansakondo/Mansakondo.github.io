@@ -1,22 +1,30 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-	 <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
-	 <script src="https://kit.fontawesome.com/435fd63633.js" crossorigin="anonymous"></script>
-  </head>
-  <body class="md:flex md:gap">
-	  <div>
-		  <div class="p-4 prose border-r">
-			  <p>Mansa Keïta</p>
-			  <p>mansakeita22@gmail.com</p>
-		  </div>
-	  </div>
-	  <div class="prose p-4">
-		  {{ content }}
-	  </div>
-  </body>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>{{ page.title }} - {{ site.title }}</title>
+		<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+		<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+		<script src="https://kit.fontawesome.com/435fd63633.js" crossorigin="anonymous"></script>
+	</head>
+	<body class="md:flex md:gap">
+		<div class="z-20 bg-white fixed top-4 hover:bg-zinc-100 left-[80%] shadow rounded">
+			<div class="flex flex-col items-center gap-4 p-4">
+				<p>
+					<a href="https://github.com/mansakondo" title="@mansakondo" target="_blank">
+						<i class="fa-brands fa-github"></i>
+					</a>
+				</p>
+				<p>
+					<a href="mailto:mansakeita22@gmail.com" title="mansakeita22@gmail.com" target="_blank">
+						<i class="fa-solid fa-envelope"></i>
+					</a>
+				</p>
+			</div>
+		</div>
+		<div class="mx-auto my-0 prose p-4">
+			{{ content }}
+		</div>
+	</body>
 </html>
