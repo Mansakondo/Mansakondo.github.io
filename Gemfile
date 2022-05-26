@@ -9,3 +9,5 @@ ruby "2.7.2"
 gem "jekyll"
 gem "webrick"
 gem "github-pages", "~> 223", group: :jekyll_plugins
+gem "rake"
+gem "docraptor"
