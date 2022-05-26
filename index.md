@@ -16,14 +16,14 @@ title: "Mansa Keïta"
 		code.
 
 ### During my self-learning, I've worked on...
-* A [PR](https://github.com/rails/rails/pull/43399) (extracted from a [gem](https://github.com/mansakondo/activemodel-embedding)) to model semi-structured data in Rails applications.
+* A [PR](https://github.com/rails/rails/pull/43399) (extracted from a [gem](https://github.com/mansakondo/activemodel-embedding)) to model semi-structured data in Rails.
 * A [gem](https://github.com/mansakondo/parallelixir) which delegates Ruby background processing to Elixir.
 * An [application](https://karan-demo.herokuapp.com/) which indexes [encoded bibliographic data](https://en.wikipedia.org/wiki/MARC_standards), and provides a minimal [discovery interface](https://blog.andornot.com/blog/discovery-interfaces-a-new-opac-for-libraries/) with hierarchical facets.
-* This [project](https://rest-countries-challenge.herokuapp.com/) was a front-end challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca), in which I've used TailwindCSS and Hotwire to build responsive and progressively enhanced views.
+* A front-end [challenge](https://rest-countries-challenge.herokuapp.com/) from [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca), with responsive and progressively enhanced views made with TailwindCSS and Hotwire.
 
 ### Now I'm familiar with...
 * How HTTP works.
-* Languages like HTML/CSS, just enough JavaScript, my beloved Ruby, and a bit of Erlang/Elixir.
+* Languages like HTML/CSS, JavaScript, Ruby, and a bit of Erlang/Elixir.
 * Databases like PostgreSQL, Redis, Elasticsearch.
 * How to manage, share and deploy code with tools like Git, Heroku, Docker.
 
@@ -35,5 +35,4 @@ title: "Mansa Keïta"
 ### When I'm not writing software, I enjoy...
 * Playing video games (Especially fighting games and FPS).
 * Playing chess from time to time.
-* Watching Netflix. (I recommend "Queen's Gambit" by the way!)
-* Watching Jiujitsu videos.
+* Watching Jiujitsu videos and Netflix. (I recommend "Queen's Gambit" by the way!)
