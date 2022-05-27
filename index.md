@@ -10,7 +10,7 @@ title: "Mansa Keïta"
 * I live in France (UTC+1/2).
 
 ### In the last 3 years...
-* I drop out of college.
+* I dropped out of college.
 * I taught myself programming and web development.
 * I worked as a volunteer in a library, where I animated sessions to teach kids how to
 		code.
