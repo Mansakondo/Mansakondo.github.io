@@ -15,7 +15,7 @@ title: "Mansa Keïta"
 * I worked as a volunteer in a library, where I animated sessions to teach kids how to
 		code.
 
-### During my self-learning, I've worked on...
+### During my self-learning, I worked on...
 * A [PR](https://github.com/rails/rails/pull/43399) (extracted from a [gem](https://github.com/mansakondo/activemodel-embedding)) to model semi-structured data in Rails.
 * A [gem](https://github.com/mansakondo/parallelixir) which delegates Ruby background processing to Elixir.
 * An [application](https://karan-demo.herokuapp.com/) which indexes [encoded bibliographic data](https://en.wikipedia.org/wiki/MARC_standards), and provides a minimal [discovery interface](https://blog.andornot.com/blog/discovery-interfaces-a-new-opac-for-libraries/) with hierarchical facets.
