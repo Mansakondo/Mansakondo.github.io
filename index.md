@@ -10,27 +10,13 @@ title: "Mansa Keïta"
 ### In the last 3 years...
 * I dropped out of college.
 * I taught myself programming and web development.
-* I worked as a volunteer in a library, where I animated sessions to teach kids how to
-		code.
-
-### During my self-learning, I've worked on...
-* A [PR](https://github.com/rails/rails/pull/43399) (extracted from a [gem](https://github.com/mansakondo/activemodel-embedding)) to model semi-structured data in Rails.
-* A Ruby [background job framework](https://github.com/mansakondo/parallelixir) powered by Elixir.
-* An [application](https://karan-demo.herokuapp.com/) which indexes [encoded bibliographic data](https://en.wikipedia.org/wiki/MARC_standards), and provides a minimal [discovery interface](https://blog.andornot.com/blog/discovery-interfaces-a-new-opac-for-libraries/) with hierarchical facets.
-* A front-end [challenge](https://rest-countries-challenge.herokuapp.com/) from [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca) with responsive and progressively enhanced views made with TailwindCSS and Hotwire.
-* A [live counter](https://hotwire-counter.fly.dev/) built with Turbo Streams and Kredis and deployed in multiple regions with [Fly.io](https://fly.io/)
+* I worked as a volunteer in an association to teach kids how to code.
+* I wrote several gems.
+* I started to work on some Ruby projects as a freelancer.
+* I became a [Rails contributor](https://contributors.rubyonrails.org/contributors/mansakondo/commits).
 
 ### I enjoy...
-* Writing useful Ruby gems (especially Rails plugins).
-* Building reactive Rails applications.
+* Open-source development
+* Front-end development with TailwindCSS and ViewComponent. 
+* Reactive Rails development with Hotwire and StimulusReflex.
 * Writing [technical articles](https://dev.to/mansakondo).
-
-### When I'm writing software, I care about...
-* Designing relevant domain models.
-* Writing code that reads well.
-* Finding elegant solutions to complex problems.
-
-### When I'm not writing software, I enjoy...
-* Playing FPS and fighting games
-* Playing chess from time to time.
-* Watching Jiujitsu videos and Netflix. (I recommend "Queen's Gambit" by the way!)
