@@ -20,3 +20,8 @@ title: "Mansa Keïta"
 * Front-end development with TailwindCSS and ViewComponent. 
 * Reactive Rails development with Hotwire and StimulusReflex.
 * Writing [technical articles](https://dev.to/mansakondo).
+
+### I want to...
+* Write meaningful and beautiful software.
+* Work on innovative products.
+* Extract elegant solutions from complex problems.
