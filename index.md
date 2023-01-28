@@ -4,7 +4,7 @@ title: "Mansa Keïta"
 ---
 ### Hi, I'm Mansa Keïta
 * I'm a self-taught software writer.
-* I'm 23.
+* I'm 24.
 * I live in France (UTC+1/2).
 
 ### In the last 3 years...
@@ -12,7 +12,6 @@ title: "Mansa Keïta"
 * I taught myself programming and web development.
 * I worked as a volunteer in an association to teach kids how to code.
 * I wrote several gems.
-* I started to work on some Ruby projects as a freelancer.
 * I became a [Rails contributor](https://contributors.rubyonrails.org/contributors/mansakondo/commits).
 
 ### I enjoy...
