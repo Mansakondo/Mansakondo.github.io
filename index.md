@@ -11,8 +11,7 @@ title: "Mansa Keïta"
 * I dropped out of college
 * I taught myself programming and web development
 * I worked as a volunteer in an association to teach kids how to code
-* I wrote several gems
-* I became a [Rails contributor](https://contributors.rubyonrails.org/contributors/mansakondo/commits)
+* I wrote several gems and became a [Rails contributor](https://contributors.rubyonrails.org/contributors/mansakondo/commits)
 
 ### I enjoy...
 * Open-source development
