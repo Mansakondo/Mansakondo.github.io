@@ -21,5 +21,5 @@ title: "Mansa Keïta"
 
 ### I want to...
 * Write meaningful and beautiful software
-* Build tools that improves the developer experience (DX)
-* Work on innovative products that delivers rich user experiences (UX)
+* Build tools that improve the developer experience (DX)
+* Work on innovative products that deliver rich user experiences (UX)
