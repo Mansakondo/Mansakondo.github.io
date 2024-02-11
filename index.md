@@ -19,9 +19,11 @@ I'm a 25-year-old self-taught software writer.
 #### 2019
 * I dropped out of college
 * I taught myself programming and web development
+
 #### 2021
 * I opened multiple PRs and wrote several gems
 * I worked as a volunteer with an association to teach kids how to code
+
 #### 2022
 * I became a [Rails contributor](https://contributors.rubyonrails.org/contributors/mansakondo/commits)
 * I started my freelance career
