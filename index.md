@@ -3,7 +3,7 @@ layout: default
 title: "Mansa Keïta"
 ---
 ### Hi, I'm Mansa Keïta
-I'm a 25-year-old self-taught software writer.
+I'm a 26-year-old self-taught software writer.
 
 ### I enjoy...
 * Open-source development
